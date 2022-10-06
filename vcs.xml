@@ -26,9 +26,13 @@
           <option name="url" value="https://github.com/Lutitious/employee-fix-double-space" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/5CCS2PEP/assignment2022cpp-Lutitious.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Rahul\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\Rahul\CLionProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
